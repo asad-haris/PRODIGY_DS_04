@@ -1,0 +1,17 @@
+# Core libraries for Task 4: Sentiment Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Text processing & NLP
+nltk>=3.7
+wordcloud>=1.8.2
+re
+
+# Data analysis
+scikit-learn>=1.2.0  # For optional advanced analysis
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
